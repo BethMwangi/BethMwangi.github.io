@@ -1,6 +1,9 @@
+---
+layout: post
+title: Want to become a good python developer? Read the documentation first 
+---
 
 
-####Want to become a good python developer? Read the documentation first 
 
 This is my second week into Python and i am very excited to learn more about the language. I have realized it can actually do magic 
 quite an easy language to grasp ,i.e from creating web apps to games and dynamic management systems. I am always eager to find new learning material online and practise on my laptop.
